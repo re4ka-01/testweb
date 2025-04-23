@@ -14,9 +14,9 @@ body { background: #b0b0b070; font-family: PT Sans, sans-serif; color: #7a5c5c;
 }
 .button a { background: #1a2a1F; color: #fff;
 }
-.button:before { content ''; border-right:-color: none; border :none;
+.button:before { content: ''; border-right:-color: none; border :none;
 }
-.button:after { content ''; border-left:-color: none; border :none;
+.button:after { content: ''; border-left:-color: none; border :none;
 }
 .bx-filter { font-family: cursive;
 }
