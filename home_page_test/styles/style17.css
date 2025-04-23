@@ -1,0 +1,74 @@
+body { background #b0b0b070;  Заменено на более светлый серый с прозрачностью font-family PT Sans, sans-serif; color #7a5c5c;  Заменен на более светлый коричневый 
+}
+.bx-filter .bx-filter-parameters-box-title span { color #b0b0b0;  Заменено на более светлый серый 
+}
+.topbar { background none repeat scroll 0 0 #a1c2c20d;  Заменено на более светлый оттенок  box-shadow 0 -4px 10px -4px;
+}
+.header-contacts { margin-top 25px;
+}
+.basket__area { color #b0b0b0;  Заменено на более светлый серый  text-align right;
+}
+.contacts-list li, .contacts-list a { display flex; color #b0b0b0;  Заменено на более светлый серый 
+}
+.main-menu__link { font-size 12px; color #b0b0b0;  Заменено на более светлый серый 
+}
+.button a { background #1a2a1F;  Заменено на более светлый оттенок темного зеленого  color #fff;
+}
+.buttonbefore { content ''; border-right-color none; border none;
+}
+.buttonafter { content ''; border-left-color none; border none;
+}
+.bx-filter { font-family cursive;
+}
+.bx-filter .btn-buynth-child(2) { background rgba(0, 0, 0, 0) linear-gradient(0deg, #d51a1a 30%, #fb1a1a 70%) repeat scroll 0 0; border none; border-radius 7px;
+}
+.bx-filter .bx-ui-slider-pricebar-v { background #b0b0b0;  Заменено на более светлый серый 
+}
+.btn-buy { border none; border-radius 7px;
+}
+.div-title { margin-top 50px;
+}
+.bx-filter .bx-ui-slider-handle.left { background #b0b0b0;  Заменено на более светлый серый 
+}
+.bx-filter .bx-ui-slider-handle.right { background #b0b0b0;  Заменено на более светлый серый 
+}
+.bx-filter .bx-filter-parameters-box-title { color #b0b0b0;  Заменено на более светлый серый 
+}
+.but { background #f5f5f5;  Заменено на очень светлый серый  margin-top 5px; border-bottom 2px solid lightgray;  Заменено на более светлый серый  border-radius 7px;
+}
+.butbefore { border-bottom none;
+}
+.butafter { border-top none;
+}
+.buthoverbefore { border-bottom none;
+}
+.buthoverafter { border-top none;
+}
+.btn-base { background #b0b0b0;  Заменено на более светлый серый  border 1px solid #b0b0b0;  Заменено на более светлый серый  border-radius 7px; border-bottom 2px solid lightgray;  Заменено на более светлый серый 
+}
+.smartfilter { border 2px solid #b0b0b0;  Заменено на более светлый серый  padding 15px; border-radius 7px;
+}
+.search-form__bg { background #b0b0b0;  Заменено на более светлый серый 
+}
+.button_compare {
+background #762c2c; border 1px solid #b0b0b0; border-radius 0px; border-right 2px solid #fff; border-left 2px solid #fff; font-size 14px; box-shadow 0 1px 0;}
+.basket__area { background url(httpsinzenernay-doska1.ruimagesBasket.svg) left center no-repeat;
+}
+.catalog-section__info-name { font-size 14px;
+}
+.catalog-section__price { font-size 16.5px;
+}
+.catalog-tabs .nav-item .nav-link { border-radius 7px; background #b0b0b0;  Заменено на более светлый серый 
+}
+.nav-tabs .nav-item { margin-bottom 5px;
+}
+.header__logo { padding-left 210px;
+}
+.header__logo-desc { color #5e4f4f;  Заменен на более светлый коричневый  text-align right;
+}
+.footer-menu__list a { color #aaaaaa;  Заменен на более светлый серый 
+}
+.footer__legal p { text-align center; margin 40px 0; clear both; color #d4d9dd;  Оставлено без изменений  font-size 13px;
+}
+#toTop { width 60px;
+}

@@ -1,0 +1,37 @@
+body {background:#bababa70;  font-family: "Rubik", sans-serif; color:#685353}
+.bx-filter .bx-filter-parameters-box-title span {color:#bababa}
+.topbar {background:none repeat scroll 0 0 #a1b9b20d; box-shadow:0 -4px 10px -4px}
+.header-contacts {margin-top:25px}
+.basket__area {color:#bababa; text-align:right}
+.contacts-list li,.contacts-list a {display:flex; color:#bababa}
+.main-menu__link {font-size:12px; color:#bababa}
+.button a {background:#18230F; color:#fff}
+.button::before {content:''; border-right-color:none; border:none}
+.button::after {content:''; border-left-color:none; border:none}
+.bx-filter {font-family:cursive}
+.bx-filter .btn-buy:nth-child(2) {background:rgba(0,0,0,0) linear-gradient(0deg,#d21414 30%,#fa1414 70%) repeat scroll 0 0; border:none; border-radius:7px}
+.bx-filter .bx-ui-slider-pricebar-v {background:#bababa}
+.btn-buy {border:none; border-radius:7px}
+.div-title {margin-top:50px}
+.bx-filter .bx-ui-slider-handle.left {background:#bababa}
+.bx-filter .bx-ui-slider-handle.right {background:#bababa}
+.bx-filter .bx-filter-parameters-box-title {color:#bababa; }
+.but {background:#ffffff; margin-top:5px; border-bottom:2px solid gray; border-radius:7px}
+.but:before {border-bottom:none}
+.but:after {border-top:none}
+.but:hover:before {border-bottom:none}
+.but:hover:after {border-top:none}
+.btn-base {background:#bababa; border:1px solid #bababa; border-radius:7px; border-bottom:2px solid gray}
+.smartfilter {border:2px solid #bababa; padding:15px; border-radius:7px}
+.search-form__bg {background:#bababa}
+.button_compare {background:#bababa; border:1px solid #bababa; border-radius:7px; border-bottom:2px solid gray; font-size:14px; box-shadow:0 1px 0}
+.basket__area {background:url(https://inzenernay-doska1.ru/images/Basket.svg) left center no-repeat}
+.catalog-section__info-name {font-size:14px}
+.catalog-section__price {font-size:16.5px}
+.catalog-tabs .nav-item .nav-link {border-radius:7px; background:#bababa}
+.nav-tabs .nav-item {margin-bottom:5px}
+.header__logo {padding-left:350px}
+.header__logo-desc {color:#473f3f; text-align:right}
+.footer-menu__list a {color:#9999}
+.footer__legal p {text-align:center; margin:40px 0; clear:both; color:#43b8ff; font-size:13px}
+#toTop {width:60px}

@@ -1,0 +1,181 @@
+body {
+    background: #fff3e6; /* Новый цвет фона (светлый кремовый) */
+    font-family: "Rubik", sans-serif;
+    color: #8c6a4d; /* Новый цвет текста (темно-кремовый) */
+}
+
+.bx-filter .bx-filter-parameters-box-title span {
+    color: #8c6a4d; /* Новый цвет заголовков фильтра */
+}
+
+.topbar {
+    background: #ffebcc; /* Новый цвет фона верхней панели (светло-кремовый) */
+    box-shadow: 0 -4px 10px -4px #fff inset;
+}
+
+.header-contacts {
+    margin-top: 30px; /* Новое значение отступа */
+}
+
+.basket__area {
+    color: #8c6a4d; /* Новый цвет текста в корзине */
+    text-align: right;
+}
+.bx_3966226736_20551,.bx_3966226736_19820{display:none;}.contacts-list li,
+.contacts-list a {
+    display: flex;
+    color: #8c6a4d; /* Новый цвет ссылок в контактах */
+}
+
+.main-menu__link {
+    font-size: 12px;
+    color: #8c6a4d; /* Новый цвет ссылок в меню */
+}
+
+.button a {
+    background: #d9a76b; /* Новый цвет кнопки (темно-кремовый) */
+    color: #fff;
+}
+
+.button::before,
+.button::after {
+    content: '';
+    border-right-color: none;
+    border: none;
+}
+
+.bx-filter {
+    font-family: cursive;
+}
+
+.bx-filter .btn-buy:nth-child(2) {
+    background: rgba(0, 0, 0, 0) linear-gradient(0deg, #ffd699 30%, #ffcc80 70%) repeat scroll 0 0; /* Новый градиент */
+    border: none;
+    border-radius: 7px;
+}
+
+.bx-filter .bx-ui-slider-pricebar-v {
+    background: #ffe6cc; /* Новый цвет полосы цен (очень светлый кремовый) */
+}
+
+.btn-buy {
+    border: none;
+    border-radius: 7px;
+}
+
+.div-title {
+    margin-top: 50px;
+}
+
+.bx-filter .bx-ui-slider-handle.left,
+.bx-filter .bx-ui-slider-handle.right {
+    background: #ffd699; /* Новый цвет ручек слайдера */
+}
+
+.bx-filter .bx-filter-parameters-box-title {
+    color: #8c6a4d; /* Новый цвет заголовка фильтра */
+}
+
+.but {
+    background: none;
+    margin-top: 5px;
+    border-left: 2px solid #fff3e6; 
+    border-radius: 7px;
+    border-right: 2px solid #fff3e6;
+}
+
+.but:before,
+.but:after {
+    border-bottom: none;
+    border-top: none;
+}
+
+.but:hover:before,
+.but:hover:after {
+    border-bottom: none;
+    border-top: none;
+}
+
+.btn-base {
+    background: #ffe6cc; /* Новый цвет кнопки */
+    border: 1px solid #ffd699; /* Новый цвет границы кнопки */
+    border-radius: 7px;
+    border-bottom: 2px solid gray;
+    color: #000;
+}
+
+.smartfilter {
+    border: 2px solid #ffd699; /* Новый цвет рамки фильтра */
+    padding: 15px;
+    border-radius: 7px;
+}
+
+.search-form__bg {
+    background: #ffebcc; /* Новый цвет фона поиска */
+}
+
+.button_compare {
+    background: #ffe6cc; /* Новый цвет кнопки сравнения */
+    border: 1px solid #ffd699; /* Новый цвет границы кнопки сравнения */
+    border-radius: 7px;
+    border: 2px solid gray;
+    font-size: 14px;
+    box-shadow: 0 1px 0;
+    color: #000;
+}
+
+.basket__area {
+    background: url(https://inzenernay-doska1.ru/images/Basket.svg) left center no-repeat;
+}
+
+.catalog-section__info-name {
+    font-size: 14px;
+}
+
+.catalog-section__price {
+    font-size: 16.5px;
+}
+
+.catalog-tabs .nav-item .nav-link {
+    border-radius: 7px;
+    background: #ffe6cc; /* Новый цвет вкладок */
+}
+
+.nav-tabs .nav-item {
+    margin-bottom: 5px;
+}
+
+.header__logo {
+    padding-left: 50px; /* Новое значение отступа */
+}
+
+.header__logo-desc {
+    color: #8c6a4d; /* Новый цвет описания логотипа */
+    text-align: right;
+}
+
+.footer-menu__list a {
+    color: #8c6a4d; /* Новый цвет ссылок в футере */
+}
+
+.footer__legal p {
+    text-align: center;
+    margin: 40px 0;
+    clear: both;
+    color: #ffd699; /* Новый цвет текста в футере */
+    font-size: 13px;
+}
+
+#toTop {
+    width: 60px;
+}
+
+#sections-menu li {
+    margin: 5px 15px;
+}
+
+.main-menu__link {
+    color:#fff3e6; /* Новый цвет ссылок в главном меню */
+}.swiper-wrapper {
+    height: 200px;
+}

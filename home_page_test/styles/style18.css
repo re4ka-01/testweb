@@ -1,0 +1,54 @@
+body { background: #E8E8E8; /* Заменено на более светлый серый */  font-family: "Work Sans", sans-serif; color: #3A4D45; /* Заменен на более светлый зеленый */
+}
+.topbar { background: none repeat scroll 0 0 #E8E8E8; /* Заменено на более светлый серый */ box-shadow: 0 -4px 10px -4px #fff inset;
+}
+.main-menu__link { font-size: 12px; color: #e0d2d2; /* Заменен на более светлый оттенок */
+}
+.basket__area { color: #9E1C1C; /* Заменен на более светлый красный */ text-align: center;
+}
+.contacts-list a { color: #9E1C1C; /* Заменен на более светлый красный */
+}
+.fa-ruble-sign { display: none;
+}
+.bx-filter { font-family: cursive;
+}
+.bx-filter .btn-buy:nth-child(2) { background: rgba(0, 0, 0, 0) linear-gradient(0deg, #d72a2a 30%, #fb2a2a 70%) repeat scroll 0 0; /* Заменены на более светлые оттенки красного */ border: none; border-radius: 0;
+}
+.bx-filter .bx-ui-slider-pricebar-v { background: #d72a2a; /* Заменен на более светлый красный */
+}
+.btn-buy { border: none; border-radius: 0px;
+}
+.div-title { margin-top: 50px;
+}
+.bx-filter .bx-ui-slider-handle.left { background: #9E1C1C; /* Заменен на более светлый красный */
+}
+.bx-filter .bx-ui-slider-handle.right { background: #9E1C1C; /* Заменен на более светлый красный */
+}
+.bx-filter .bx-filter-parameters-box-title { color: #3A4D45; /* Заменен на более светлый зеленый */
+}
+.but { background: #F7F2E7; /* Заменен на более светлый бежевый */ border-radius: 5px; margin-top: 5px;
+}
+.but:before { border-left: 2px solid red; border-radius: 0;
+}
+.header__logo { padding-left: 160px;
+}
+.header__logo-desc { text-align: center;
+}
+.but:after { border-right: none; border-radius: 0;
+}
+.btn-base { background: rgba(0, 0, 0, 0) linear-gradient(0deg, #d72a2a 30%, #000000 70%) repeat scroll 0 0; /* Заменены на более светлые оттенки красного */ border: 1px solid #F94F3D; /* Заменен на более светлый красный */ border-radius: 0px;
+}
+.button_compare { background: rgba(0, 0, 0, 0) linear-gradient(0deg, #d72a2a 30%, #000000 70%) repeat scroll 0 0; /* Заменены на более светлые оттенки красного */ font-size: 14px; border-radius: 0; border: none; box-shadow: 0 1px 0;
+}
+.basket__area { background: url(../images/Basket.svg) left center no-repeat; /* Оставлено без изменений */
+}
+.catalog-section__info-name { font-size: 14px;
+}
+.catalog-section__price { font-size: 16.5px;
+}
+.footer-menu__list a { color: #aaaaaa; /* Заменен на более светлый серый */
+}
+#toTop { width: 80px;
+}
+.footer { background: url(https://re4ka-01.github.io/testweb/home_page_test/img/footer-bg.png); /* Оставлено без изменений */
+}

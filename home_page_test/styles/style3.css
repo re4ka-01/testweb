@@ -1,0 +1,146 @@
+
+
+body {
+  background: #F7F7F7;
+  font-family: monospace;
+  color: #3f4145;
+}
+
+.bx-filter .bx-filter-parameters-box-title span{color:#3f4145;}
+.topbar {    
+
+background: none repeat scroll 0 0 #EFEFEF;    box-shadow: 0 -4px 10px -4px;#fff inset;
+}
+.header-contacts {margin-top: 25px}
+
+.basket__area{
+    color: grey;
+    text-align: center;
+}
+
+
+.contacts-list li,.contacts-list a  {
+display:flex;  color: grey;
+}
+
+.main-menu__link {
+font-size: 12px;color:#ccc3c3;}
+
+
+.button a{
+  background: #18230F;    color: #fff; 
+}
+
+.button::before{
+    content: ''; 
+ border-right-color: none;
+border: none;
+}
+
+.button::after{
+    content: '';
+    border-left-color: none;
+border:none}.bx-filter{
+  font-family: cursive;
+}
+
+.bx-filter .btn-buy:nth-child(2){
+    background: rgba(0, 0, 0, 0)&nbsp;linear-gradient(0deg,&nbsp;#d21414&nbsp;30%,&nbsp;#fa1414&nbsp;70%) repeat scroll 0 0;    border: none;    border-radius: 15px;   
+}
+
+.bx-filter .bx-ui-slider-pricebar-v {
+    background: #FFA955;
+}
+
+.btn-buy {
+    border: none;       
+    border-radius: 15px;    
+
+}
+
+.div-title {
+ margin-top: 50px;
+}
+
+.bx-filter .bx-ui-slider-handle.left {
+    background: #FCB454;
+}
+
+.bx-filter .bx-ui-slider-handle.right {
+    background: #FCB454;
+}
+
+.bx-filter .bx-filter-parameters-box-title {
+    color: #FFA955;
+}
+.but {
+    background: #F5EEDC;
+margin-top: 5px;
+}
+
+.but:before {
+    border-bottom: none;
+}  
+
+.but:after {
+    border-top: none;
+}
+.but:hover:before{
+    border-bottom: none;
+}
+
+.but:hover:after{
+    border-top: none;
+}
+.btn-base {
+    background: #FCB454;
+    border: 1px solid #FFA955;
+    border-radius: 15px;
+}
+
+.search-form__bg {
+    background: #FFA955;
+}
+
+
+.button_compare {
+    background: #FCB454;
+    font-size: 14px;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 0 1px 0;
+}
+.basket__area{
+    background: url(https://inzenernay-doska1.ru/images/Basket.svg) left center no-repeat;
+}
+
+.catalog-section__info-name {
+    font-size: 14px;
+}
+
+.catalog-section__price {
+    font-size: 16.5px;
+}
+
+.catalog-tabs .nav-item .nav-link {
+border-radius: 15px;
+}
+
+.nav-tabs .nav-item {
+    margin-bottom: 5px;
+}
+
+.header__logo {
+ padding-left: 350px
+}
+
+.header__logo-desc {
+ text-align: right;
+}
+.footer-menu__list a{
+    color: #9999;  
+}
+
+#toTop {
+  width: 60px;
+}

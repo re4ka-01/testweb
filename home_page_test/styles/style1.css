@@ -1,0 +1,36 @@
+body {background:#F5EEDD;  font-family: "Nunito Sans", sans-serif; color:#594100}.bx-filter .bx-filter-parameters-box-title span {color:#594100}
+.topbar {background:none repeat scroll 0 0 #a1b9b20d; box-shadow:0 -4px 10px -4px}
+ .swiper-wrapper {height:200px}
+.header-contacts {margin-top:25px}
+.basket__area {color:#594100; text-align:right}
+.contacts-list li,.contacts-list a {display:flex; color:#594100}
+.main-menu__link {font-size:12px; color:#F4F8D3}.fa-home{padding-top: 6px;} .button a {background:#594100; color:#fff}
+.button::before {content:''; border-right-color:none; border:none}
+.button::after {content:''; border-left-color:none; border:none}
+.bx-filter {font-family:cursive}
+.bx-filter .btn-buy:nth-child(2) {background:rgba(0,0,0,0) linear-gradient(0deg,#d21414 30%,#fa1414 70%) repeat scroll 0 0; border:none; border-radius:12px}
+.bx-filter .bx-ui-slider-pricebar-v {background:#594100}
+.btn-buy {border:none; border-radius:12px}
+.div-title {margin-top:50px}
+.bx-filter .bx-ui-slider-handle.left {background:#594100}
+.bx-filter .bx-ui-slider-handle.right {background:#594100}
+.bx-filter .bx-filter-parameters-box-title {color:#594100}
+.but {background:#fff; margin-top:5px; border-left:2px solid #A76545; border-radius:12px}
+.but:before {border-bottom:none}
+.but:after {border-top:none}
+.but:hover:before {border-bottom:none}
+.but:hover:after {border-top:none}
+.btn-base {background:#644A07; border:1px solid #594100; border-radius:12px; border-bottom:2px solid #594100}
+.smartfilter {border:2px solid #594100; padding:15px; border-radius:12px}
+.search-form__bg {background:#644A07}
+.button_compare {background:#644A07; border:1px solid #594100; border-radius:12px; border-bottom:2px solid gray; font-size:14px; box-shadow:0 1px 0}
+.basket__area {background:url(https://inzenernay-doska1.ru/images/Basket.svg) left center no-repeat}
+.catalog-section__info-name {font-size:14px}
+.catalog-section__price {font-size:16.5px}
+.catalog-tabs .nav-item .nav-link {border-radius:12px; background:#A76545}
+.nav-tabs .nav-item {margin-bottom:5px}
+.header__logo {padding-left:210px}
+.header__logo-desc {color:#473f3f; text-align:center}
+.footer-menu__list a {color:#594100}
+.footer__legal p {text-align:center; margin:40px 0; clear:both; color:#594100; font-size:13px}
+#toTop {width:60px}

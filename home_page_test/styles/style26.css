@@ -1,0 +1,71 @@
+body { background: #ffe5b4; /* Новый цвет фона (светлый оранжевый) */ font-family: "Rubik", sans-serif; color: #7f5a3e; /* Новый цвет текста (тёмно-оранжевый) */
+    }
+    .bx-filter .bx-filter-parameters-box-title span { color: #7f5a3e; /* Новый цвет заголовков фильтра */
+    }
+    .topbar { background: none repeat scroll 0 0 #ffcc80; /* Новый цвет фона верхней панели (светло-оранжевый) */ box-shadow: 0 -4px 10px -4px #fff inset;
+    }
+    .header-contacts { margin-top: 40px; /* Новое значение отступа */
+    }
+    .basket__area { color: #7f5a3e; /* Новый цвет текста в корзине */ text-align: right;
+    }
+    .contacts-list li, .contacts-list a { display: flex; color: #7f5a3e; /* Новый цвет ссылок в контактах */
+    }
+    .main-menu__link { font-size: 12px; color: #7f5a3e; /* Новый цвет ссылок в меню */
+    }
+    .button a { background: #c77b3b; /* Новый цвет кнопки (тёмно-оранжевый) */ color: #fff;
+    }
+    .button::before, .button::after { content: ''; border-right-color: none; border: none;
+    }
+    .bx-filter { font-family: cursive;
+    }
+    .bx-filter .btn-buy:nth-child(2) { background: rgba(0, 0, 0, 0) linear-gradient(0deg, #ffab40 30%, #ff8f00 70%) repeat scroll 0 0; /* Новый градиент */ border: none; border-radius: 7px;
+    }
+    .bx-filter .bx-ui-slider-pricebar-v { background: #ffe0b2; /* Новый цвет полосы цен (очень светлый оранжевый) */
+    }
+    .btn-buy { border: none; border-radius: 7px;
+    }
+    .div-title { margin-top: 50px;
+    }
+    .bx-filter .bx-ui-slider-handle.left,
+    .bx-filter .bx-ui-slider-handle.right { background: #ffab40; /* Новый цвет ручек слайдера */
+    }
+    .bx-filter .bx-filter-parameters-box-title { color: #7f5a3e; /* Новый цвет заголовка фильтра */
+    }
+    .but {
+    background: none; margin-top: 5px; border-top: 2px solid #ffe5b4; border-radius: 7px; border-bottom: 2px solid #ffe5b4; border-radius: 0px;}
+    .but:before, .but:after { border-bottom: none; border-top: none
+    }
+    .but:hover:before, .but:hover:after { border-bottom: none;
+    border-top: none;}
+    .btn-base { background: #ffe0b2; /* Новый цвет кнопки */ border: 1px solid #ffab40; /* Новый цвет границы кнопки */ border-radius: 7px; border-bottom: 2px solid gray; color:#000;
+    }
+    .smartfilter { border: 2px solid #ffab40; /* Новый цвет рамки фильтра */ padding: 15px; border-radius: 7px;
+    }
+    .search-form__bg { background: #ffcc80; /* Новый цвет фона поиска */
+    }
+    .button_compare { background: #ffe0b2; /* Новый цвет кнопки сравнения */ border: 1px solid #ffab40; /* Новый цвет границы кнопки сравнения */ border-radius: 7px; border-bottom: 2px solid gray; font-size: 14px; box-shadow: 0 1px 0; color:#000;
+    }
+    .basket__area { background: url(https://inzenernay-doska1.ru/images/Basket.svg) left center no-repeat;
+    }
+    .catalog-section__info-name { font-size: 14px;
+    }
+    .catalog-section__price { font-size: 16.5px;
+    }
+    .catalog-tabs .nav-item .nav-link { border-radius: 7px; background: #ffe0b2; /* Новый цвет вкладок */
+    }
+    .nav-tabs .nav-item { margin-bottom: 5px;
+    }
+    .header__logo { padding-left: 60px; /* Новое значение отступа */
+    }
+    .header__logo-desc { color: #7f5a3e; /* Новый цвет описания логотипа */ text-align: right;
+    }
+    .footer-menu__list a { color: #7f5a3e; /* Новый цвет ссылок в футере */
+    }
+    .footer__legal p { text-align: center; margin: 40px 0; clear: both; color: #ffab40; /* Новый цвет текста в футере */ font-size: 13px;
+    }
+    #toTop { width: 60px;
+    }
+    #sections-menu li { margin: 5px 15px;
+    }
+    .main-menu__link { color:#ffe5b4; /* Новый цвет ссылок в главном меню */
+    }
