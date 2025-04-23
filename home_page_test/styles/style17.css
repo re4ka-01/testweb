@@ -40,9 +40,9 @@ body { background: #b0b0b070; font-family: PT Sans, sans-serif; color: #7a5c5c;
 }
 .but:after { border-top: none;
 }
-.but:hoverbefore { border-bottom: none;
+.but:hover:before { border-bottom: none;
 }
-.but:hoverafter { border-top: none;
+.but:hover:after { border-top: none;
 }
 .btn-base { background: #b0b0b0;border :1px solid #b0b0b0;border-radius: 7px;border-bottom: 2px solid lightgray;
 }
